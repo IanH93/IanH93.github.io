@@ -1,0 +1,17 @@
+{
+	"userName": "IanCH93",
+	"goals": [
+	  	{
+			"goal": " Develop better coding practice ",
+			"confidence": 90
+		},
+		{
+			"goal": "Graduate from MSU in December",
+			"confidence": 95
+		},
+		{
+			"goal": "Learn the skills I need to find a job and perform up to standard",
+			"confidence": 75
+		}
+	]
+}
